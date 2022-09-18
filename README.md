@@ -3,7 +3,7 @@
 
 - 🔭 Momentálně pracuji na [Minecraft-web-template](https://github.com/SengyEU/Minecraft-web-template)
 
-- 🌱 Momentálně se učím **ReactJS**
+- 🌱 Momentálně se učím **Java + Bukkit/Spigot API**
 
 - 👨‍💻 Všechny mé projekty jsou dostupné na [https://github.com/SengyEU/](https://github.com/SengyEU/)
 
