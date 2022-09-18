@@ -1,7 +1,7 @@
 <h1 align="center">Ahoj 👋, Jsem Sengy</h1>
 <h3 align="center">Tvůrce webů a webových aplikací.</h3>
 
-- 🔭 Momentálně pracuji na [Minecraft-web-template](https://github.com/SengyEU/Minecraft-web-template)
+- 🔭 Momentálně pracuji na [TropicLand.eu](https://tropicland.eu)
 
 - 🌱 Momentálně se učím **Java + Bukkit/Spigot API**
 
