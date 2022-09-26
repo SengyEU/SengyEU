@@ -7,7 +7,7 @@
 
 - 👨‍💻 Všechny mé projekty jsou dostupné na [https://github.com/SengyEU/](https://github.com/SengyEU/)
 
-- 📫 Jak mě kontaktovat? **Skrze discord (SengyEU#0671)**
+- 📫 Jak mě kontaktovat? **Skrze discord (SengyEU#0001)**
 
 <p align="left">
 </p>
