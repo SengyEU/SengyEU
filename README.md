@@ -3,7 +3,7 @@
 
 - 🔭 Momentálně nepracuji na ničem
 
-- 🌱 Momentálně se učím **Java + Bukkit/Spigot API**
+- 🌱 Momentálně se učím **ReactJS**
 
 - 👨‍💻 Všechny mé projekty jsou dostupné na [https://github.com/SengyEU/](https://github.com/SengyEU/)
 
