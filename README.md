@@ -1,7 +1,7 @@
 <h1 align="center">Ahoj 👋, Jsem Sengy</h1>
 <h3 align="center">Tvůrce webů a webových aplikací.</h3>
 
-- 🔭 Momentálně nepracuji na ničem
+- 🔭 Momentálně pracuji na [https://github.com/SengyEU/camera-history](https://github.com/SengyEU/camera-history)
 
 - 🌱 Momentálně se učím **ReactJS**
 
